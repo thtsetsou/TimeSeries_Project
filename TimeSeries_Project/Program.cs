@@ -1,6 +1,8 @@
 using TimeSeries_Project;
 using TimeSeries_Project.TimeSeriesF;
 
+//A project with Timeseries and Samples
+//Builder and Factory pattern are used
 internal class Program
 {
     private static void Main(string[] args)
